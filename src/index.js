@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './style';
-import App from './App';
+import './statics/iconfont/iconfont'
+import App from './App.jsx';
 //import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
